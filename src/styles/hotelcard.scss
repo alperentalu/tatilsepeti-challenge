@@ -1,0 +1,170 @@
+.hotel-list {
+  /* Your overall styling for the hotel list container */
+}
+
+.hotel-item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin: 2vh 0 2vh 0;
+
+  .header {
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid #dddddd;
+    background-color: #f5f5f5;
+    color: #FA640D;
+
+    .hotel-name {
+      font-size: 18px;
+      min-height: 5vh;
+      display: flex;
+      align-items: center;
+    }
+
+    .rating {
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+
+      .review-count {
+        color: #969696;
+        font-weight: normal;
+        font-size: .857rem;
+      }
+    }
+  }
+
+  .content {
+    display: flex;
+    max-height: 170px;
+    flex-direction: row;
+
+    .image-container {
+      position: relative;
+
+      .prepaid-badge {
+        position: absolute;
+        background-color: #fa640d;
+        padding: 5px;
+        font-size: 10px;
+        color: white;
+        border-radius: 3px;
+        bottom: 10px;
+        left: 10px;
+      }
+
+      .favorite-icon {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+      }
+    }
+
+    .info {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      border-right: 1px solid #e5e5e5;
+      padding: 10px;
+      justify-content: space-between;
+      border-right-style: dashed;
+
+      .location {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+      }
+
+      .recommend-icon {
+        font-size: 18px;
+        color: #003466;
+        font-weight: bold;
+      }
+
+      .campaign {
+        font-size: 15px;
+        color: #ff8a00;
+        font-weight: bold;
+      }
+
+
+
+      .property-list {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        font-size: 11px;
+
+        .property {
+          width: 33%;
+          height: 21px;
+        }
+      }
+    }
+
+    .pricing {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 25px;
+      justify-content: space-evenly;
+
+      .accommodation {
+        font-size: 18px;
+        font-weight: bold;
+        color: #003466;
+      }
+
+      .original-price {
+        .strike-through {
+          font-size: 12px;
+          text-decoration: line-through;
+        }
+      }
+
+      .discounted-price {
+        font-size: 18px;
+        font-weight: bold;
+        color: #003466;
+      }
+
+      .details-button {
+        background-color: #003466;
+        border-radius: 3px;
+        color: white;
+        padding: 10px;
+      }
+    }
+  }
+}      .score {
+  color: white !important;
+  width: 30px;
+  height: 30px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.good {
+  color: #f28447;
+  background-color: #f28447;
+
+}
+
+.very-good {
+  color: #f39c27;
+  background-color: #f39c27;
+
+}
+
+.wonderful {
+  color: #87a52e;
+  background-color: #87a52e;
+
+}

@@ -1,0 +1,2710 @@
+{
+  "resultObject": {
+    "hotelList": [
+      {
+        "hotelPropertyList": [
+          {
+            "code": "cocukdostu",
+            "codeName": "Çocuk Dostu",
+            "name": "Çocuk Dostu",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "3sukaydiragi",
+            "codeName": "3 Su Kaydırağı",
+            "name": "3 Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "spa",
+            "text": "Spa",
+            "count": 0
+          },
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          },
+          {
+            "code": "kumplajli",
+            "text": "Kum Plajlı",
+            "count": 0
+          },
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "cevreyeduyarlitesis",
+            "text": "Çevreye Duyarlı Tesis",
+            "count": 0
+          },
+          {
+            "code": "somestir",
+            "text": "Sömestir",
+            "count": 0
+          }
+        ],
+        "hotelId": 4860,
+        "hotelName": "Adalya Ocean Deluxe",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 8.9,
+        "reviewCount": 33,
+        "customersPointText": "Harika",
+        "customersPointCssName": "score wonderful",
+        "areaName": "Antalya",
+        "subAreaName": "Side",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Evrenseki",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %40 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/04860/450x300/tsr04860637546142937260130.jpg",
+        "currency": "TL",
+        "longitude": 31.338443,
+        "latitude": 36.809284,
+        "price": 74615,
+        "discountPrice": 44761.53850000001,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 40.01,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/adalya-ocean-deluxe",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "yetiskinoteli",
+            "codeName": "Yetişkin Oteli",
+            "name": "Yetişkin Oteli",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "3sukaydiragi",
+            "codeName": "3 Su Kaydırağı",
+            "name": "3 Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "spa",
+            "text": "Spa",
+            "count": 0
+          },
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "aquapark",
+            "text": "Aquapark",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          },
+          {
+            "code": "kumplajli",
+            "text": "Kum Plajlı",
+            "count": 0
+          },
+          {
+            "code": "cevreyeduyarlitesis",
+            "text": "Çevreye Duyarlı Tesis",
+            "count": 0
+          },
+          {
+            "code": "yetiskinoteli",
+            "text": "Yetişkin Oteli",
+            "count": 0
+          }
+        ],
+        "hotelId": 4859,
+        "hotelName": "Adalya Resort Spa Adults Only",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 7.6,
+        "reviewCount": 7,
+        "customersPointText": "İyi",
+        "customersPointCssName": "score good",
+        "areaName": "Antalya",
+        "subAreaName": "Side",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Evrenseki",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %40 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/04859/450x300/tsr04859637862477766264296.jpg",
+        "currency": "TL",
+        "longitude": 31.336956,
+        "latitude": 36.809773,
+        "price": 74615,
+        "discountPrice": 44761.53850000001,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 40.01,
+        "showBankCampaign": true,
+        "isFavourite": true,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/adalya-resort-spa-adults-only",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": true,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "yetiskinoteli",
+            "codeName": "Yetişkin Oteli",
+            "name": "Yetişkin Oteli",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "4sukaydiragi",
+            "codeName": "4 Su Kaydırağı",
+            "name": "4 Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          },
+          {
+            "code": "iskele",
+            "codeName": "İskele",
+            "name": "İskele",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "spa",
+            "text": "Spa",
+            "count": 0
+          },
+          {
+            "code": "deluxe",
+            "text": "Deluxe",
+            "count": 0
+          },
+          {
+            "code": "genc",
+            "text": "Genç",
+            "count": 0
+          },
+          {
+            "code": "romantik",
+            "text": "Romantik",
+            "count": 0
+          },
+          {
+            "code": "balayi",
+            "text": "Balayı",
+            "count": 0
+          },
+          {
+            "code": "engellidostu",
+            "text": "Engelli Dostu",
+            "count": 0
+          },
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "konsept",
+            "text": "Konsept",
+            "count": 0
+          },
+          {
+            "code": "aquapark",
+            "text": "Aquapark",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "yetiskinoteli",
+            "text": "Yetişkin Oteli",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          },
+          {
+            "code": "kumplajli",
+            "text": "Kum Plajlı",
+            "count": 0
+          },
+          {
+            "code": "cevreyeduyarlitesis",
+            "text": "Çevreye Duyarlı Tesis",
+            "count": 0
+          }
+        ],
+        "hotelId": 1620,
+        "hotelName": "Adam Eve",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 7.5,
+        "reviewCount": 84,
+        "customersPointText": "İyi",
+        "customersPointCssName": "score good",
+        "areaName": "Antalya",
+        "subAreaName": "Belek",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "İskele",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %15 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/01620/450X300/tsr01620638364315005993926.jpg",
+        "currency": "TL",
+        "longitude": 31.069226,
+        "latitude": 36.849784,
+        "price": 102500,
+        "discountPrice": 87125,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 15,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/adam-eve",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "alkolsuzkonsept",
+            "codeName": "Alkolsüz Konsept",
+            "name": "Alkolsüz Konsept",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "3sukaydiragi",
+            "codeName": "3 Su Kaydırağı",
+            "name": "3 Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "iskele",
+            "codeName": "İskele",
+            "name": "İskele",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "alkolsuz",
+            "text": "Alkolsüz",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "bebekdostu",
+            "text": "Bebek Dostu",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          },
+          {
+            "code": "kumplajli",
+            "text": "Kum Plajlı",
+            "count": 0
+          },
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "islami",
+            "text": "İslami",
+            "count": 0
+          },
+          {
+            "code": "cevreyeduyarlitesis",
+            "text": "Çevreye Duyarlı Tesis",
+            "count": 0
+          }
+        ],
+        "hotelId": 3938,
+        "hotelName": "Adenya Hotel Resort",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 9,
+        "reviewCount": 78,
+        "customersPointText": "Harika",
+        "customersPointCssName": "score wonderful",
+        "areaName": "Antalya",
+        "subAreaName": "Alanya",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Türkler",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Banka İlave Taksit Koşulları",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/03938/450X300/tsr03938637880584077710791.jpg",
+        "currency": "TL",
+        "longitude": 31.788708,
+        "latitude": 36.633437,
+        "price": 45088,
+        "discountPrice": 45088,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Alkolsüz Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 0,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/adenya-hotel-resort",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "alkolsuzkonsept",
+            "codeName": "Alkolsüz Konsept",
+            "name": "Alkolsüz Konsept",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "sukaydiragi",
+            "codeName": "Su Kaydırağı",
+            "name": "Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "iskele",
+            "codeName": "İskele",
+            "name": "İskele",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "alkolsuz",
+            "text": "Alkolsüz",
+            "count": 0
+          },
+          {
+            "code": "bebekdostu",
+            "text": "Bebek Dostu",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          },
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "islami",
+            "text": "İslami",
+            "count": 0
+          },
+          {
+            "code": "cevreyeduyarlitesis",
+            "text": "Çevreye Duyarlı Tesis",
+            "count": 0
+          }
+        ],
+        "hotelId": 3168,
+        "hotelName": "Adin Beach Hotel",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 8.1,
+        "reviewCount": 33,
+        "customersPointText": "Çok iyi",
+        "customersPointCssName": "score very-good",
+        "areaName": "Antalya",
+        "subAreaName": "Alanya",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "İncekum",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Banka İlave Taksit Koşulları",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/03168/450x300/tsr03168638271874859002487.jpg",
+        "currency": "TL",
+        "longitude": 31.7774767,
+        "latitude": 36.6058476,
+        "price": 41599.48,
+        "discountPrice": 41599.48,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Alkolsüz Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 0,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/adin-beach-hotel",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "aquapark",
+            "codeName": "Aquapark",
+            "name": "Aquapark",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          },
+          {
+            "code": "animasyon",
+            "codeName": "Animasyon",
+            "name": "Animasyon",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "spa",
+            "text": "Spa",
+            "count": 0
+          },
+          {
+            "code": "aquapark",
+            "text": "Aquapark",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "balayi",
+            "text": "Balayı",
+            "count": 0
+          },
+          {
+            "code": "genc",
+            "text": "Genç",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "engellidostu",
+            "text": "Engelli Dostu",
+            "count": 0
+          }
+        ],
+        "hotelId": 1806,
+        "hotelName": "Alaiye Resort Spa",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 8.7,
+        "reviewCount": 234,
+        "customersPointText": "Çok iyi",
+        "customersPointCssName": "score very-good",
+        "areaName": "Antalya",
+        "subAreaName": "Alanya",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Türkler",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %26 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/01806/450x300/tsr01806638361748831622629.jpg",
+        "currency": "TL",
+        "longitude": 31.7788875,
+        "latitude": 36.6097577,
+        "price": 40000,
+        "discountPrice": 29600,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 26,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/alaiye-resort-spa",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "aquapark",
+            "codeName": "Aquapark",
+            "name": "Aquapark",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          },
+          {
+            "code": "animasyon",
+            "codeName": "Animasyon",
+            "name": "Animasyon",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "engellidostu",
+            "text": "Engelli Dostu",
+            "count": 0
+          },
+          {
+            "code": "balayi",
+            "text": "Balayı",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          },
+          {
+            "code": "aquapark",
+            "text": "Aquapark",
+            "count": 0
+          },
+          {
+            "code": "bebekdostu",
+            "text": "Bebek Dostu",
+            "count": 0
+          }
+        ],
+        "hotelId": 11626,
+        "hotelName": "Alarcha Hotels Resorts",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 8.2,
+        "reviewCount": 170,
+        "customersPointText": "Çok iyi",
+        "customersPointCssName": "score very-good",
+        "areaName": "Antalya",
+        "subAreaName": "Side",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Örenşehir",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %32 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/11626/450x300/tsr11626637726575569489337.jpg",
+        "currency": "TL",
+        "longitude": 31.649442,
+        "latitude": 36.666071,
+        "price": 45440,
+        "discountPrice": 30899.199999999997,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 32,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/alarcha-hotels-resorts",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "aquapark",
+            "codeName": "Aquapark",
+            "name": "Aquapark",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          },
+          {
+            "code": "animasyon",
+            "codeName": "Animasyon",
+            "name": "Animasyon",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "",
+            "text": "",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "spa",
+            "text": "Spa",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "aquapark",
+            "text": "Aquapark",
+            "count": 0
+          }
+        ],
+        "hotelId": 12074,
+        "hotelName": "Aletris Deluxe Hotel Spa",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 7,
+        "reviewCount": 70,
+        "customersPointText": "İyi",
+        "customersPointCssName": "score good",
+        "areaName": "Antalya",
+        "subAreaName": "Side",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Çolaklı",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %25 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/12074/450x300/tsr12074638066289110933751.jpg",
+        "currency": "TL",
+        "longitude": 31.2974479,
+        "latitude": 36.8258339,
+        "price": 44000,
+        "discountPrice": 33000,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 25,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/aletris-deluxe-hotel-spa",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "cocukdostu",
+            "codeName": "Çocuk Dostu",
+            "name": "Çocuk Dostu",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "sukaydiragi",
+            "codeName": "Su Kaydırağı",
+            "name": "Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "spavesaglik",
+            "codeName": "Spa ve Sağlık",
+            "name": "Spa ve Sağlık",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "bebekdostu",
+            "text": "Bebek Dostu",
+            "count": 0
+          },
+          {
+            "code": "genc",
+            "text": "Genç",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "tatilkoyu",
+            "text": "Tatil Köyü",
+            "count": 0
+          },
+          {
+            "code": "balayi",
+            "text": "Balayı",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          }
+        ],
+        "hotelId": 2078,
+        "hotelName": "Armonia Holiday Village Spa",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 8.1,
+        "reviewCount": 137,
+        "customersPointText": "Çok iyi",
+        "customersPointCssName": "score very-good",
+        "areaName": "Bodrum",
+        "subAreaName": "Akyarlar",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": null,
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %30 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/02078/450x300/tsr02078638348726889803193.jpg",
+        "currency": "TL",
+        "longitude": 27.269272,
+        "latitude": 36.963867,
+        "price": 34384,
+        "discountPrice": 24068.8,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 30,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/armonia-holiday-village-spa",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      },
+      {
+        "hotelPropertyList": [
+          {
+            "code": "cocukdostu",
+            "codeName": "Çocuk Dostu",
+            "name": "Çocuk Dostu",
+            "description": null
+          },
+          {
+            "code": "denizesifir",
+            "codeName": "Denize Sıfır",
+            "name": "Denize Sıfır",
+            "description": null
+          },
+          {
+            "code": "3sukaydiragi",
+            "codeName": "3 Su Kaydırağı",
+            "name": "3 Su Kaydırağı",
+            "description": null
+          },
+          {
+            "code": "miniclub",
+            "codeName": "Mini Club",
+            "name": "Mini Club",
+            "description": null
+          },
+          {
+            "code": "alakartrestoran",
+            "codeName": "Alakart Restoran",
+            "name": "Alakart Restoran",
+            "description": null
+          },
+          {
+            "code": "animasyon",
+            "codeName": "Animasyon",
+            "name": "Animasyon",
+            "description": null
+          }
+        ],
+        "hotelGeneralPropertyList": [],
+        "campaignResponseModels": [],
+        "hotelThemeList": [
+          {
+            "code": "mavibayrakli",
+            "text": "Mavi Bayraklı",
+            "count": 0
+          },
+          {
+            "code": "cocukluaile",
+            "text": "Çocuklu Aile",
+            "count": 0
+          },
+          {
+            "code": "sukaydiragi",
+            "text": "Su Kaydırağı",
+            "count": 0
+          },
+          {
+            "code": "resort",
+            "text": "Resort",
+            "count": 0
+          },
+          {
+            "code": "bebekdostu",
+            "text": "Bebek Dostu",
+            "count": 0
+          },
+          {
+            "code": "denizesifir",
+            "text": "Denize Sıfır",
+            "count": 0
+          }
+        ],
+        "hotelId": 1328,
+        "hotelName": "Aydınbey Famous Resort Hotel",
+        "productType": 2,
+        "star": 5,
+        "class": "Otel",
+        "customerScore": 8.2,
+        "reviewCount": 14,
+        "customersPointText": "Çok iyi",
+        "customersPointCssName": "score very-good",
+        "areaName": "Antalya",
+        "subAreaName": "Belek",
+        "locationName": null,
+        "hotelCapacity": null,
+        "subAreaDetailName": "Boğazkent",
+        "categoryNo": 1,
+        "campaignPromoList": [],
+        "campaignName": "Erken Rezervasyon %27 İndirim + 9 Taksit",
+        "galaCampaign": null,
+        "photoPath": "https://cdn.tatilsepeti.com/Files/Images/Tesis/01328/450X300/tsr01328637755932791488960.jpg",
+        "currency": "TL",
+        "longitude": 31.159709,
+        "latitude": 36.832428,
+        "price": 46400,
+        "discountPrice": 33872,
+        "isRecommend": true,
+        "isSponsor": false,
+        "routing": "",
+        "routingOrder": 89,
+        "routingClass": "default",
+        "smartOpportunity": "",
+        "status": "Sorunuz...",
+        "statusTypeId": 1,
+        "membershipCategoryNo": 10,
+        "hotelApproval": "Onaylandı",
+        "hotelSearchCountOrder": 0,
+        "accommodation": "Ultra Herşey Dahil",
+        "magicOpportunity": false,
+        "discountRate": 27,
+        "showBankCampaign": true,
+        "isFavourite": false,
+        "hasFlyingPackage": false,
+        "countryCode": null,
+        "url": "/aydinbey-famous-resort-hotel",
+        "hasCovidMeasures": false,
+        "hasMinistryOfHealthCertificate": false,
+        "warning": "",
+        "isHotelPaid": false,
+        "isHotelPrePaid": false,
+        "prePaidRate": 0
+      }
+    ],
+    "suggestHotelList": [],
+    "filterModel": {
+      "orderType": 0,
+      "orderDirection": 0,
+      "oneChildFree": false,
+      "twoChildFree": false,
+      "minPrice": 0,
+      "maxPrice": 0,
+      "areaPlaceList": [
+        {
+          "code": "8",
+          "text": "Antalya",
+          "count": 874
+        },
+        {
+          "code": "24",
+          "text": "Bodrum",
+          "count": 255
+        },
+        {
+          "code": "177",
+          "text": "Fethiye",
+          "count": 167
+        },
+        {
+          "code": "101",
+          "text": "Marmaris",
+          "count": 195
+        },
+        {
+          "code": "105",
+          "text": "Muğla",
+          "count": 124
+        },
+        {
+          "code": "97",
+          "text": "Kuşadası",
+          "count": 82
+        },
+        {
+          "code": "60",
+          "text": "Çeşme",
+          "count": 247
+        },
+        {
+          "code": "99",
+          "text": "Kıbrıs",
+          "count": 107
+        },
+        {
+          "code": "79",
+          "text": "İzmir",
+          "count": 186
+        },
+        {
+          "code": "20",
+          "text": "Balıkesir",
+          "count": 257
+        },
+        {
+          "code": "42",
+          "text": "Bolu",
+          "count": 65
+        },
+        {
+          "code": "62",
+          "text": "Düzce",
+          "count": 8
+        },
+        {
+          "code": "53",
+          "text": "Çanakkale",
+          "count": 146
+        },
+        {
+          "code": "70",
+          "text": "İstanbul",
+          "count": 705
+        },
+        {
+          "code": "48",
+          "text": "Bursa",
+          "count": 118
+        },
+        {
+          "code": "416",
+          "text": "Denizli",
+          "count": 47
+        },
+        {
+          "code": "1",
+          "text": "Afyon",
+          "count": 25
+        },
+        {
+          "code": "257",
+          "text": "Yalova",
+          "count": 37
+        },
+        {
+          "code": "4",
+          "text": "Ankara",
+          "count": 137
+        },
+        {
+          "code": "17",
+          "text": "Didim",
+          "count": 34
+        },
+        {
+          "code": "429",
+          "text": "Diyarbakır",
+          "count": 19
+        },
+        {
+          "code": "85",
+          "text": "Kapadokya",
+          "count": 131
+        },
+        {
+          "code": "189",
+          "text": "Adana",
+          "count": 28
+        },
+        {
+          "code": "93",
+          "text": "Kars",
+          "count": 30
+        },
+        {
+          "code": "65",
+          "text": "Erzurum",
+          "count": 18
+        },
+        {
+          "code": "495",
+          "text": "Kırşehir",
+          "count": 3
+        },
+        {
+          "code": "440",
+          "text": "Ordu",
+          "count": 14
+        },
+        {
+          "code": "425",
+          "text": "Şanlıurfa",
+          "count": 10
+        },
+        {
+          "code": "218",
+          "text": "Kocaeli",
+          "count": 57
+        },
+        {
+          "code": "95",
+          "text": "Kayseri",
+          "count": 34
+        },
+        {
+          "code": "452",
+          "text": "Kütahya",
+          "count": 9
+        },
+        {
+          "code": "402",
+          "text": "Gaziantep",
+          "count": 32
+        },
+        {
+          "code": "406",
+          "text": "Konya",
+          "count": 25
+        },
+        {
+          "code": "353",
+          "text": "Isparta",
+          "count": 6
+        },
+        {
+          "code": "142",
+          "text": "Karabük",
+          "count": 24
+        },
+        {
+          "code": "256",
+          "text": "Sakarya",
+          "count": 114
+        },
+        {
+          "code": "384",
+          "text": "Manisa",
+          "count": 13
+        },
+        {
+          "code": "517",
+          "text": "Malatya",
+          "count": 9
+        },
+        {
+          "code": "356",
+          "text": "Mersin",
+          "count": 64
+        },
+        {
+          "code": "394",
+          "text": "Rize",
+          "count": 46
+        },
+        {
+          "code": "389",
+          "text": "Nevşehir",
+          "count": 17
+        },
+        {
+          "code": "436",
+          "text": "Samsun",
+          "count": 30
+        },
+        {
+          "code": "258",
+          "text": "Hatay",
+          "count": 23
+        },
+        {
+          "code": "398",
+          "text": "Eskişehir",
+          "count": 41
+        },
+        {
+          "code": "456",
+          "text": "Trabzon",
+          "count": 78
+        },
+        {
+          "code": "497",
+          "text": "Niğde",
+          "count": 8
+        },
+        {
+          "code": "125",
+          "text": "Çankırı",
+          "count": 3
+        },
+        {
+          "code": "472",
+          "text": "Bilecik",
+          "count": 3
+        },
+        {
+          "code": "412",
+          "text": "Mardin",
+          "count": 32
+        },
+        {
+          "code": "475",
+          "text": "Bitlis",
+          "count": 4
+        },
+        {
+          "code": "350",
+          "text": "Elazığ",
+          "count": 7
+        },
+        {
+          "code": "371",
+          "text": "Kırklareli",
+          "count": 16
+        },
+        {
+          "code": "502",
+          "text": "Sinop",
+          "count": 10
+        },
+        {
+          "code": "68",
+          "text": "Kastamonu",
+          "count": 10
+        },
+        {
+          "code": "174",
+          "text": "Zonguldak",
+          "count": 7
+        },
+        {
+          "code": "511",
+          "text": "Van",
+          "count": 11
+        },
+        {
+          "code": "514",
+          "text": "Aksaray",
+          "count": 7
+        },
+        {
+          "code": "377",
+          "text": "Bartın",
+          "count": 18
+        },
+        {
+          "code": "374",
+          "text": "Tekirdağ",
+          "count": 21
+        },
+        {
+          "code": "488",
+          "text": "Giresun",
+          "count": 8
+        },
+        {
+          "code": "433",
+          "text": "Edirne",
+          "count": 20
+        },
+        {
+          "code": "492",
+          "text": "Kahramanmaraş",
+          "count": 12
+        },
+        {
+          "code": "523",
+          "text": "Yozgat",
+          "count": 1
+        },
+        {
+          "code": "579",
+          "text": "Uşak",
+          "count": 8
+        },
+        {
+          "code": "420",
+          "text": "Batman",
+          "count": 2
+        },
+        {
+          "code": "469",
+          "text": "Amasya",
+          "count": 14
+        },
+        {
+          "code": "391",
+          "text": "Bingöl",
+          "count": 2
+        },
+        {
+          "code": "520",
+          "text": "Tokat",
+          "count": 7
+        },
+        {
+          "code": "482",
+          "text": "Çorum",
+          "count": 2
+        },
+        {
+          "code": "525",
+          "text": "Adıyaman",
+          "count": 6
+        },
+        {
+          "code": "507",
+          "text": "Sivas",
+          "count": 11
+        },
+        {
+          "code": "563",
+          "text": "Aydın",
+          "count": 9
+        },
+        {
+          "code": "569",
+          "text": "Karaman",
+          "count": 3
+        },
+        {
+          "code": "571",
+          "text": "Kırıkkale",
+          "count": 1
+        },
+        {
+          "code": "480",
+          "text": "Burdur",
+          "count": 8
+        },
+        {
+          "code": "565",
+          "text": "Gümüşhane",
+          "count": 1
+        },
+        {
+          "code": "485",
+          "text": "Erzincan",
+          "count": 5
+        },
+        {
+          "code": "445",
+          "text": "Artvin",
+          "count": 2
+        },
+        {
+          "code": "564",
+          "text": "Bayburt",
+          "count": 1
+        },
+        {
+          "code": "573",
+          "text": "Muş",
+          "count": 1
+        },
+        {
+          "code": "504",
+          "text": "Şırnak",
+          "count": 1
+        }
+      ],
+      "hotelTypes": [
+        {
+          "code": "spa",
+          "text": "Spa",
+          "count": 508
+        },
+        {
+          "code": "ekonomik",
+          "text": "Ekonomik",
+          "count": 1651
+        },
+        {
+          "code": "konsept",
+          "text": "Konsept",
+          "count": 120
+        },
+        {
+          "code": "golf",
+          "text": "Golf",
+          "count": 14
+        },
+        {
+          "code": "romantik",
+          "text": "Romantik",
+          "count": 381
+        },
+        {
+          "code": "doga",
+          "text": "Doğa",
+          "count": 635
+        },
+        {
+          "code": "dagotelleri",
+          "text": "Dağ Otelleri",
+          "count": 78
+        },
+        {
+          "code": "termal",
+          "text": "Termal",
+          "count": 168
+        },
+        {
+          "code": "sehir",
+          "text": "Şehir",
+          "count": 1684
+        },
+        {
+          "code": "kucukvebutik",
+          "text": "Küçük ve Butik",
+          "count": 1991
+        },
+        {
+          "code": "balayi",
+          "text": "Balayı",
+          "count": 328
+        },
+        {
+          "code": "cocukluaile",
+          "text": "Çocuklu Aile",
+          "count": 1868
+        },
+        {
+          "code": "genc",
+          "text": "Genç",
+          "count": 1011
+        },
+        {
+          "code": "engellidostu",
+          "text": "Engelli Dostu",
+          "count": 153
+        },
+        {
+          "code": "mavibayrakli",
+          "text": "Mavi Bayraklı",
+          "count": 334
+        },
+        {
+          "code": "single",
+          "text": "Single",
+          "count": 289
+        },
+        {
+          "code": "evcilhayvankabuleden",
+          "text": "Evcil Hayvan Kabul Eden",
+          "count": 213
+        },
+        {
+          "code": "yetiskinoteli",
+          "text": "Yetişkin Oteli",
+          "count": 229
+        },
+        {
+          "code": "deluxe",
+          "text": "Deluxe",
+          "count": 153
+        },
+        {
+          "code": "sukaydiragi",
+          "text": "Su Kaydırağı",
+          "count": 482
+        },
+        {
+          "code": "aquapark",
+          "text": "Aquapark",
+          "count": 159
+        },
+        {
+          "code": "tatilkoyu",
+          "text": "Tatil Köyü",
+          "count": 77
+        },
+        {
+          "code": "kayak",
+          "text": "Kayak",
+          "count": 70
+        },
+        {
+          "code": "yakinbolge",
+          "text": "Yakın Bölge",
+          "count": 479
+        },
+        {
+          "code": "alkolsuz",
+          "text": "Alkolsüz",
+          "count": 115
+        },
+        {
+          "code": "resort",
+          "text": "Resort",
+          "count": 1033
+        },
+        {
+          "code": "cevreyeduyarlitesis",
+          "text": "Çevreye Duyarlı Tesis",
+          "count": 335
+        },
+        {
+          "code": "magaraoteli",
+          "text": "Mağara Oteli",
+          "count": 76
+        },
+        {
+          "code": "bebekdostu",
+          "text": "Bebek Dostu",
+          "count": 491
+        },
+        {
+          "code": "kumplajli",
+          "text": "Kum Plajlı",
+          "count": 682
+        },
+        {
+          "code": "denizesifir",
+          "text": "Denize Sıfır",
+          "count": 648
+        },
+        {
+          "code": "islami",
+          "text": "İslami",
+          "count": 35
+        },
+        {
+          "code": "glutensizmutfak",
+          "text": "Glutensiz Mutfak",
+          "count": 1
+        },
+        {
+          "code": "bungalov",
+          "text": "Bungalov",
+          "count": 172
+        },
+        {
+          "code": "villa",
+          "text": "Villa",
+          "count": 109
+        },
+        {
+          "code": "somine",
+          "text": "Şömine",
+          "count": 100
+        },
+        {
+          "code": "sevgililergunu",
+          "text": "Sevgililer Günü",
+          "count": 314
+        },
+        {
+          "code": "sagliksertifikali",
+          "text": "Sağlık Sertifikalı",
+          "count": 228
+        },
+        {
+          "code": "bagevi",
+          "text": "Bağ Evi",
+          "count": 9
+        },
+        {
+          "code": "somestir",
+          "text": "Sömestir",
+          "count": 171
+        },
+        {
+          "code": "glamping",
+          "text": "Glamping",
+          "count": 30
+        },
+        {
+          "code": "dagevleri",
+          "text": "Dağ Evleri",
+          "count": 25
+        },
+        {
+          "code": "bungalovevleri",
+          "text": "Bungalov Evleri",
+          "count": 90
+        },
+        {
+          "code": "ayinfirsatlari",
+          "text": "Ayın Fırsatları",
+          "count": 48
+        },
+        {
+          "code": "transferdahil",
+          "text": "Transfer Dahil",
+          "count": 4
+        },
+        {
+          "code": "ozelhavuzluoteller",
+          "text": "Özel Havuzlu Oteller",
+          "count": 94
+        },
+        {
+          "code": "tinyhouse",
+          "text": "Tiny House",
+          "count": 19
+        }
+      ],
+      "roomTypes": [
+        {
+          "type": 0,
+          "code": "ultraherseydahil",
+          "text": "Ultra Herşey Dahil",
+          "count": 256
+        },
+        {
+          "type": 1,
+          "code": "herseydahil",
+          "text": "Herşey Dahil",
+          "count": 447
+        },
+        {
+          "type": 2,
+          "code": "tampansiyon",
+          "text": "Tam Pansiyon",
+          "count": 57
+        },
+        {
+          "type": 3,
+          "code": "yarimpansiyon",
+          "text": "Yarım Pansiyon",
+          "count": 350
+        },
+        {
+          "type": 4,
+          "code": "odakahvalti",
+          "text": "Oda Kahvaltı",
+          "count": 3223
+        },
+        {
+          "type": 5,
+          "code": "sadeceoda",
+          "text": "Sadece Oda",
+          "count": 614
+        }
+      ],
+      "guestPoints": [
+        {
+          "type": 1,
+          "code": "mukemmel",
+          "text": "Mükemmel: 9,5 ve üstü",
+          "count": 173
+        },
+        {
+          "type": 2,
+          "code": "harika",
+          "text": "Harika: 8,9 ve üstü",
+          "count": 767
+        },
+        {
+          "type": 3,
+          "code": "cokiyi",
+          "text": "Çok iyi: 8,0 ve üstü",
+          "count": 1926
+        },
+        {
+          "type": 4,
+          "code": "iyi",
+          "text": "İyi: 7,0 ve üstü",
+          "count": 2618
+        },
+        {
+          "type": 5,
+          "code": "diger",
+          "text": "Diğer",
+          "count": 2355
+        }
+      ],
+      "hotelCartTypes": [
+        {
+          "type": 0,
+          "code": "otel",
+          "text": "Otel",
+          "count": 2387
+        },
+        {
+          "type": 7,
+          "code": "apart",
+          "text": "Apart",
+          "count": 178
+        },
+        {
+          "type": 8,
+          "code": "oberj",
+          "text": "Oberj",
+          "count": 2
+        },
+        {
+          "type": 9,
+          "code": "pansiyon",
+          "text": "Pansiyon",
+          "count": 99
+        },
+        {
+          "type": 10,
+          "code": "motel",
+          "text": "Motel",
+          "count": 25
+        },
+        {
+          "type": 11,
+          "code": "butikotel",
+          "text": "Butik Otel",
+          "count": 1379
+        },
+        {
+          "type": 12,
+          "code": "ozelbelgeli",
+          "text": "Özel Belgeli",
+          "count": 829
+        },
+        {
+          "type": 13,
+          "code": "tatilkoyu",
+          "text": "Tatil Köyü",
+          "count": 51
+        },
+        {
+          "type": 14,
+          "code": "villa",
+          "text": "Villa",
+          "count": 23
+        }
+      ],
+      "chainHotels": [
+        {
+          "code": "58",
+          "text": "Xanadu Otelleri",
+          "count": 2
+        },
+        {
+          "code": "59",
+          "text": "Orange County",
+          "count": 3
+        },
+        {
+          "code": "60",
+          "text": "Accor Group",
+          "count": 36
+        },
+        {
+          "code": "61",
+          "text": "Adalya Otelleri",
+          "count": 4
+        },
+        {
+          "code": "65",
+          "text": "Anemon Otelleri",
+          "count": 22
+        },
+        {
+          "code": "67",
+          "text": "Aydınbey Otelleri",
+          "count": 4
+        },
+        {
+          "code": "68",
+          "text": "Corendon Otelleri",
+          "count": 1
+        },
+        {
+          "code": "69",
+          "text": "Crystal Otelleri",
+          "count": 13
+        },
+        {
+          "code": "70",
+          "text": "D Otelleri",
+          "count": 3
+        },
+        {
+          "code": "71",
+          "text": "Daima Otelleri",
+          "count": 1
+        },
+        {
+          "code": "73",
+          "text": "Eden Group",
+          "count": 4
+        },
+        {
+          "code": "74",
+          "text": "Euphoria Otelleri",
+          "count": 3
+        },
+        {
+          "code": "76",
+          "text": "Gardenia Otelleri",
+          "count": 2
+        },
+        {
+          "code": "77",
+          "text": "Grand Yazıcı Otelleri",
+          "count": 4
+        },
+        {
+          "code": "78",
+          "text": "Green Nature Otelleri",
+          "count": 2
+        },
+        {
+          "code": "79",
+          "text": "Haliç Park",
+          "count": 2
+        },
+        {
+          "code": "80",
+          "text": "Hattuşa Otelleri",
+          "count": 4
+        },
+        {
+          "code": "83",
+          "text": "İnsula Otelleri",
+          "count": 1
+        },
+        {
+          "code": "84",
+          "text": "Kamelya Otelleri",
+          "count": 3
+        },
+        {
+          "code": "85",
+          "text": "Kaya Otelleri",
+          "count": 9
+        },
+        {
+          "code": "86",
+          "text": "La Blanche Otelleri",
+          "count": 2
+        },
+        {
+          "code": "87",
+          "text": "Larissa Otelleri",
+          "count": 4
+        },
+        {
+          "code": "88",
+          "text": "Letoonia Otelleri",
+          "count": 2
+        },
+        {
+          "code": "89",
+          "text": "Liberty Otelleri",
+          "count": 3
+        },
+        {
+          "code": "90",
+          "text": "Limak Otelleri",
+          "count": 7
+        },
+        {
+          "code": "91",
+          "text": "Lonicera Otelleri",
+          "count": 3
+        },
+        {
+          "code": "94",
+          "text": "Melas Otelleri",
+          "count": 4
+        },
+        {
+          "code": "98",
+          "text": "Mirada Otelleri",
+          "count": 4
+        },
+        {
+          "code": "99",
+          "text": "Ng Otelleri",
+          "count": 3
+        },
+        {
+          "code": "101",
+          "text": "Otium Otelleri",
+          "count": 12
+        },
+        {
+          "code": "103",
+          "text": "Palm Wings-Venosa",
+          "count": 4
+        },
+        {
+          "code": "104",
+          "text": "Pgs Otelleri",
+          "count": 2
+        },
+        {
+          "code": "105",
+          "text": "Port River-Lake River",
+          "count": 3
+        },
+        {
+          "code": "107",
+          "text": "Queen`s Park Otelleri",
+          "count": 2
+        },
+        {
+          "code": "109",
+          "text": "Stone Grubu",
+          "count": 10
+        },
+        {
+          "code": "110",
+          "text": "Seaden Otelleri",
+          "count": 5
+        },
+        {
+          "code": "111",
+          "text": "Sealife Otelleri",
+          "count": 4
+        },
+        {
+          "code": "114",
+          "text": "Side Star Otelleri",
+          "count": 4
+        },
+        {
+          "code": "115",
+          "text": "Sueno Otelleri",
+          "count": 3
+        },
+        {
+          "code": "116",
+          "text": "Sundance Otelleri",
+          "count": 2
+        },
+        {
+          "code": "117",
+          "text": "Sunis Otelleri",
+          "count": 5
+        },
+        {
+          "code": "118",
+          "text": "Sunrise Starlight",
+          "count": 2
+        },
+        {
+          "code": "120",
+          "text": "Trendy Otelleri",
+          "count": 4
+        },
+        {
+          "code": "121",
+          "text": "TT Otelleri",
+          "count": 13
+        },
+        {
+          "code": "122",
+          "text": "Turan Prince Otelleri",
+          "count": 2
+        },
+        {
+          "code": "123",
+          "text": "Turunç Otelleri",
+          "count": 1
+        },
+        {
+          "code": "124",
+          "text": "Von Otelleri",
+          "count": 4
+        },
+        {
+          "code": "125",
+          "text": "White City Otelleri",
+          "count": 2
+        },
+        {
+          "code": "130",
+          "text": "Kervansaray Otelleri",
+          "count": 1
+        },
+        {
+          "code": "133",
+          "text": "Dedeman Otelleri",
+          "count": 21
+        },
+        {
+          "code": "139",
+          "text": "Martı Otelleri",
+          "count": 4
+        },
+        {
+          "code": "140",
+          "text": "Kirman Otelleri",
+          "count": 6
+        },
+        {
+          "code": "148",
+          "text": "Sentido Otelleri",
+          "count": 1
+        },
+        {
+          "code": "149",
+          "text": "Alaiye Otelleri",
+          "count": 2
+        },
+        {
+          "code": "150",
+          "text": "Oz Otelleri",
+          "count": 3
+        },
+        {
+          "code": "152",
+          "text": "Hedef Otelleri",
+          "count": 2
+        },
+        {
+          "code": "153",
+          "text": "Diamond Otelleri",
+          "count": 4
+        },
+        {
+          "code": "155",
+          "text": "Terrace Otelleri",
+          "count": 2
+        },
+        {
+          "code": "157",
+          "text": "Justiniano Otelleri",
+          "count": 3
+        },
+        {
+          "code": "158",
+          "text": "Avantgarde Collection",
+          "count": 2
+        },
+        {
+          "code": "160",
+          "text": "Best Western Hotels",
+          "count": 5
+        },
+        {
+          "code": "161",
+          "text": "Divan Grup",
+          "count": 10
+        },
+        {
+          "code": "162",
+          "text": "Elite World Hotels",
+          "count": 3
+        },
+        {
+          "code": "163",
+          "text": "Eresin Hotels",
+          "count": 3
+        },
+        {
+          "code": "165",
+          "text": "IHG",
+          "count": 15
+        },
+        {
+          "code": "166",
+          "text": "Marriott",
+          "count": 9
+        },
+        {
+          "code": "167",
+          "text": "Mövenpick Hotels",
+          "count": 3
+        },
+        {
+          "code": "168",
+          "text": "Point Hotels",
+          "count": 1
+        },
+        {
+          "code": "169",
+          "text": "Radisson Hotels",
+          "count": 11
+        },
+        {
+          "code": "170",
+          "text": "Sürmeli Hotels",
+          "count": 2
+        },
+        {
+          "code": "171",
+          "text": "The Green Park Hotels",
+          "count": 9
+        },
+        {
+          "code": "172",
+          "text": "The Marmara Hotels",
+          "count": 1
+        },
+        {
+          "code": "173",
+          "text": "WOW Hotels",
+          "count": 2
+        },
+        {
+          "code": "175",
+          "text": "Ever Group",
+          "count": 1
+        },
+        {
+          "code": "176",
+          "text": "Miarosa Hotels",
+          "count": 1
+        },
+        {
+          "code": "177",
+          "text": "The Sign Hotels",
+          "count": 1
+        },
+        {
+          "code": "179",
+          "text": "Aska Otelleri",
+          "count": 2
+        },
+        {
+          "code": "180",
+          "text": "Ladonia Hotels",
+          "count": 8
+        },
+        {
+          "code": "181",
+          "text": "Saphir Otelleri",
+          "count": 2
+        },
+        {
+          "code": "182",
+          "text": "Nirvana Otelleri",
+          "count": 2
+        },
+        {
+          "code": "183",
+          "text": "Richmond Otelleri",
+          "count": 3
+        },
+        {
+          "code": "184",
+          "text": "Hane Hotels",
+          "count": 4
+        },
+        {
+          "code": "185",
+          "text": "Deniz Kızı Otelleri",
+          "count": 2
+        },
+        {
+          "code": "186",
+          "text": "Fame Otelleri",
+          "count": 1
+        },
+        {
+          "code": "187",
+          "text": "Gönlüferah Otelleri",
+          "count": 2
+        },
+        {
+          "code": "188",
+          "text": "Ramada - Wyndham Grubu",
+          "count": 82
+        },
+        {
+          "code": "189",
+          "text": "Polat Otelleri",
+          "count": 1
+        },
+        {
+          "code": "190",
+          "text": "Sealight Otelleri",
+          "count": 2
+        },
+        {
+          "code": "192",
+          "text": "Seher Otelleri",
+          "count": 3
+        },
+        {
+          "code": "194",
+          "text": "Hilton Otelleri",
+          "count": 29
+        },
+        {
+          "code": "195",
+          "text": "Club Sun Heaven Otelleri",
+          "count": 2
+        },
+        {
+          "code": "196",
+          "text": "Mp Hotels",
+          "count": 9
+        },
+        {
+          "code": "197",
+          "text": "Radisson Grubu",
+          "count": 13
+        },
+        {
+          "code": "199",
+          "text": "Marriot Grubu",
+          "count": 10
+        },
+        {
+          "code": "200",
+          "text": "Best Western Grubu Otelleri",
+          "count": 4
+        },
+        {
+          "code": "201",
+          "text": "Jura Otelleri",
+          "count": 5
+        },
+        {
+          "code": "202",
+          "text": "Robinson Otelleri",
+          "count": 4
+        },
+        {
+          "code": "203",
+          "text": "Asteria Hotels",
+          "count": 1
+        },
+        {
+          "code": "204",
+          "text": "Büyük Anadolu Otelleri",
+          "count": 2
+        },
+        {
+          "code": "205",
+          "text": "Club Grand Otelleri",
+          "count": 3
+        },
+        {
+          "code": "206",
+          "text": "Golden Key Otelleri",
+          "count": 3
+        },
+        {
+          "code": "207",
+          "text": "Labranda Otelleri",
+          "count": 3
+        },
+        {
+          "code": "208",
+          "text": "Princess Otelleri",
+          "count": 2
+        },
+        {
+          "code": "209",
+          "text": "Senza Otelleri",
+          "count": 2
+        },
+        {
+          "code": "211",
+          "text": "Rubi Otelleri",
+          "count": 3
+        },
+        {
+          "code": "212",
+          "text": "Merit Otelleri",
+          "count": 7
+        },
+        {
+          "code": "215",
+          "text": "Alba Otelleri",
+          "count": 1
+        },
+        {
+          "code": "219",
+          "text": "Lyra Heaven Beach Otelleri",
+          "count": 1
+        },
+        {
+          "code": "228",
+          "text": "Cornelia Hotels",
+          "count": 3
+        },
+        {
+          "code": "229",
+          "text": "Marvida Hotels",
+          "count": 2
+        },
+        {
+          "code": "231",
+          "text": "AQI Pegasos Hotels",
+          "count": 5
+        },
+        {
+          "code": "232",
+          "text": "Golden Age Hotels",
+          "count": 3
+        }
+      ],
+      "isHotelPaid": false,
+      "isHotelPrePaid": false
+    },
+    "areaWarningList": null,
+    "hotelTotalCount": 4973,
+    "hasNextPage": true,
+    "isEarlyBookingFinished": false
+  },
+  "resultCode": "200",
+  "errorMessage": [],
+  "infoMessage": [],
+  "hasError": false
+}
