@@ -1,5 +1,19 @@
-// styles.scss
-
+.hotel-search-main {
+   display: flex; 
+   flex-direction: column; 
+   width: 100vw; 
+   align-items: center; 
+}
+.large-screen-container {
+    display: flex;
+    flex-direction: row;
+    width: 60vw;
+}
+.normal-screen-container {
+    display: flex;
+    flex-direction: row;
+    width: 80vw;
+}
 .content-wrapper {
     flex: 1;
     display: flex;

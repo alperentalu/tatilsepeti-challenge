@@ -42,11 +42,11 @@ function HotelSearch() {
     }
     return (
         <>
-            {hotels && <div style={{ display: 'flex', flexDirection: 'column', width: '100vw', alignItems: 'center' }}>
+            {hotels && <div className='hotel-search-main'>
                 <div style={{ width: '100vw' }}>
                     <img style={{ width: '100vw' }} src="./navbar.png" alt="" />
                 </div>
-                <div style={window.innerWidth > 1500 ? { display: 'flex', flexDirection: 'row', width: '60vw', } : { display: 'flex', flexDirection: 'row', width: '80vw', }}>
+                <div className={window.innerWidth > 1500 ? 'large-screen-container' : 'normal-screen-container'}>
                     <div style={{ width: '15vw', minHeight: '100vh' }}>
                         <img style={{ width: '15vw', minHeight: '100vh' }} src="./sidebar.png" alt="" />
                     </div>
@@ -73,9 +73,7 @@ function HotelSearch() {
                             {hotelsIsReady ?
                                 <HotelCard hotels={hotels} />
                                 :
-                                <div
-
-                                >
+                                <div>
                                     <div>
                                         {[...Array(3)].map((_, index) => (
                                             <div key={index} className="hotel-item">
