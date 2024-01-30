@@ -23,7 +23,7 @@ function HotelCard({hotels}) {
                             </div>
                             <div className="content">
                                 <div className="image-container">
-                                    <img width={256} src={hotel.photoPath} alt={`hotel-photo-${hotel.hotelName}`} />
+                                    <img width={256} src={hotel.photoPath} alt={`hotel  ${hotel.hotelName}`} />
                                     {hotel.isHotelPrePaid && (
                                         <div className="prepaid-badge">Ön Ödeme Fırsatı</div>
                                     )}
