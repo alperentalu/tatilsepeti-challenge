@@ -1,27 +1,14 @@
-import axios from 'axios'
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import '../styles/hotelcard.scss'
-import { numberWithCommas } from '../utils/NumberWithCommas'
 
-function HotelCard() {
-    const [hotels, setHotels] = useState()
+function HotelCard({hotels}) {
 
-    useEffect(() => {
-        getHotels()
-    }, [])
-    const getHotels = async () => {
-        axios.get('./hotels.json').then((res) => {
-            setHotels(res.data)
-        }).catch((err) => {
-            console.log(err)
-        })
-    }
     return (
         <div className="hotel-list">
             {hotels && (
                 <div>
-                    {hotels.resultObject.hotelList.map((hotel) => (
-                        <div key={hotel.id} className="hotel-item">
+                    {hotels.map((hotel) => (
+                        <div key={hotel.hotelId} className="hotel-item">
                             <div className="header">
                                 <div className="hotel-name">{hotel.hotelName}</div>
                                 <div className="rating">
